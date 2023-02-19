@@ -1,1 +1,1 @@
-# projekt
+Git használata feladat
